@@ -1,0 +1,2 @@
+$ repo init -u https://github.com/SHM123/platform_manifest.git -b 4.2.1
+$ repo sync
